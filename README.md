@@ -1,6 +1,6 @@
 
 Cognifyz Python Development Internship Projects
-📌 Repository Description
+ 📌 Repository Description
 This repository contains Python development projects completed during the Cognifyz Technologies Internship. The projects focus on problem-solving, automation, and beginner-friendly application development using Python. Each task demonstrates practical implementation of core programming concepts, user interaction, conditional statements, loops, APIs, and file handling.
 🚀 Projects Included
 1️⃣ Strong Password Checker
